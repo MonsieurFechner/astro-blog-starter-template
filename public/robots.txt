@@ -1,0 +1,8 @@
+# robots.txt pour astro-blog-starter-template-82w.pages.dev
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://astro-blog-starter-template-82w.pages.dev/sitemap-index.xml
+
